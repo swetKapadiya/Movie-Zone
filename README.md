@@ -1,6 +1,6 @@
 # Movie-Zone
 
-Movie Finder is a sample android application to search movies using OMDb API which is built to demonstrate use of Modern Android development tools.
+Movie Finder is a sample android application to search movies using iMDb API which is built to demonstrate use of Modern Android development tools.
 It has been built using kotlin.Movie Finder has a huge database, it can be searching over 100.000 Movies and TV Show. 
 
 About
